@@ -1,1 +1,1 @@
-include 'worker', 'scheduler'
+include 'worker', 'scheduler', 'performer'
