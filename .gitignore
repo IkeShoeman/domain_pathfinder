@@ -243,3 +243,4 @@ project/plugins/project/
 .ensime
 
 
+/.nb-gradle/
